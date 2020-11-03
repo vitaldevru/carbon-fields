@@ -1,161 +1,175 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=utf-8\n"
-"X-Generator: babel-plugin-makepot\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Poedit 2.4.1\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jose Villalobos <jorovipe@gmail.com>\n"
+"Language-Team: Jose Villalobos <jorovipe@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
 
 #: packages/blocks/components/block-edit/index.js:214
 msgid "Show preview"
-msgstr ""
+msgstr "Mostrar vista previa"
 
 #: packages/blocks/components/block-edit/index.js:215
 msgid "Hide preview"
-msgstr ""
+msgstr "Ocultar vista previa"
 
 #: packages/blocks/components/block-edit/index.js:286
 msgid "Fields"
-msgstr ""
+msgstr "Campos"
 
 #: packages/blocks/components/not-supported-field/index.js:14
 msgid "Field of type '%s' is not supported in Gutenberg."
-msgstr ""
+msgstr "El campo de tipo '%s' no se admite en Gutenberg."
 
 #: packages/blocks/components/server-side-render/index.js:129
 msgid "Error loading block: %s"
-msgstr ""
+msgstr "Error cargando bloque: %s"
 
 #: packages/blocks/components/server-side-render/index.js:135
 msgid "No results found."
-msgstr ""
+msgstr "No se encontraron resultados."
 
 #: packages/blocks/fields/datetime/index.js:59
 #: packages/core/fields/date/index.js:15
 #: packages/metaboxes/fields/datetime/index.js:9
 msgid "Select Date"
-msgstr ""
+msgstr "Seleccione Fecha"
 
 #: packages/blocks/fields/file/index.js:16
 #: packages/metaboxes/fields/file/index.js:11
 msgid "Use File"
-msgstr ""
+msgstr "Usar Archivo"
 
 #: packages/blocks/fields/file/index.js:17
 #: packages/metaboxes/fields/file/index.js:12
 msgid "Select File"
-msgstr ""
+msgstr "Seleccionar Archivo"
 
 #: packages/blocks/fields/image/index.js:11
 #: packages/metaboxes/fields/image/index.js:11
 msgid "Use Image"
-msgstr ""
+msgstr "Usar Imagen"
 
 #: packages/blocks/fields/image/index.js:12
 #: packages/metaboxes/fields/image/index.js:12
 msgid "Select Image"
-msgstr ""
+msgstr "Seleccionar Imagen"
 
 #: packages/blocks/fields/media-gallery/index.js:16
 #: packages/metaboxes/fields/media-gallery/index.js:16
+#, fuzzy
 msgid "Use Attachments"
-msgstr ""
+msgstr "Usar Attachment"
 
 #: packages/blocks/fields/media-gallery/index.js:17
 #: packages/metaboxes/fields/media-gallery/index.js:17
+#, fuzzy
 msgid "Select Attachments"
-msgstr ""
+msgstr "Seleccionar Attachments"
 
 #: packages/core/components/no-options/index.js:14
 msgid "No options."
-msgstr ""
+msgstr "No hay opciones."
 
 #: packages/core/components/search-input/index.js:30
 msgid "Search..."
-msgstr ""
+msgstr "Buscar..."
 
 #: packages/core/fields/association/index.js:168
 msgid "Maximum number of items reached (%s items)"
-msgstr ""
+msgstr "Máximo número de ítems alcanzado (%s ítems)"
 
 #: packages/core/fields/association/index.js:266
 msgid "Showing %1$d of %2$d results"
-msgstr ""
+msgstr "Mostrando  %1$d de %2$d resultados"
 
 #: packages/core/fields/association/index.js:456
 msgid "An error occurred while trying to fetch association options."
-msgstr ""
+msgstr "Un error ocurrió mientras se intentaba cargar las opciones asociadas."
 
 #: packages/core/fields/association/index.js:513
 #: packages/core/fields/complex/index.js:428
 #: packages/core/hocs/with-validation/required.js:20
 msgid "This field is required."
-msgstr ""
+msgstr "Este campo es obligatorio."
 
 #: packages/core/fields/association/index.js:517
+#, fuzzy
 msgid "Minimum number of items not reached (%s items)"
-msgstr ""
+msgstr "No se ha alcanzado el máximo número de ítems aun (%s ítems)"
 
 #: packages/core/fields/color/index.js:92
 msgid "Select a color"
-msgstr ""
+msgstr "Selecciona un color"
 
 #: packages/core/fields/complex/group.js:154
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicar"
 
 #: packages/core/fields/complex/group.js:163
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 #: packages/core/fields/complex/group.js:172
 msgid "Collapse"
-msgstr ""
+msgstr "Callapsar"
 
 #: packages/core/fields/complex/index.js:146
+#, fuzzy
 msgid "Couldn't create the label of group - %s"
-msgstr ""
+msgstr "No se pudo crear  la etiqueta del grupo - %s"
 
 #: packages/core/fields/complex/index.js:344
 msgid "There are no entries yet."
-msgstr ""
+msgstr "No hay entradas aun."
 
 #: packages/core/fields/complex/index.js:401
 msgid "Expand All"
-msgstr ""
+msgstr "Expandir todos"
 
 #: packages/core/fields/complex/index.js:401
 msgid "Collapse All"
-msgstr ""
+msgstr "Colapsar todos"
 
 #: packages/core/fields/complex/index.js:435
 msgid "Minimum number of rows not reached (%1$d %2$s)"
-msgstr ""
+msgstr "No se alcanzó el numero mínimo de filas (%1$d %2$s)"
 
 #: packages/core/fields/complex/index.js:82
 msgid "Add %s"
-msgstr ""
+msgstr "Agregar %s"
 
 #: packages/core/fields/map/index.js:165
 msgid "The address could not be found."
-msgstr ""
+msgstr "No se pudo encontrar la dirección."
 
 #: packages/core/fields/map/index.js:167
 msgid "Geocode was not successful for the following reason: "
-msgstr ""
+msgstr "Geocode no fue exitoso por las siguientes razones: "
 
 #: packages/core/fields/map/index.js:185
 msgid "Error alert"
-msgstr ""
+msgstr "Alerta de error"
 
 #: packages/core/fields/oembed/index.js:188
 msgid "An error occurred while trying to fetch oembed preview."
-msgstr ""
+msgstr "Un error ocurrió mientras se cargaba la previsualización del oembed."
 
 #: packages/core/fields/oembed/index.js:203
 msgid "Not Found"
-msgstr ""
+msgstr "No se encontraron resultados"
 
 #: packages/core/fields/rich-text/index.js:103
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: packages/core/fields/rich-text/index.js:99
 msgid "Visual"
@@ -163,19 +177,19 @@ msgstr ""
 
 #: packages/core/fields/sidebar/index.js:110
 msgid "Please enter the name of the new sidebar:"
-msgstr ""
+msgstr "Por favor, ingrese el nombre del nuevo sidebar:"
 
 #: packages/core/fields/sidebar/index.js:128
 msgid "An error occurred while trying to create the sidebar."
-msgstr ""
+msgstr "Un error ocurrió mientras se creaba el sidebar."
 
 #: packages/core/fields/sidebar/index.js:58
 msgid "Please choose"
-msgstr ""
+msgstr "Por favor seleccione"
 
 #: packages/core/fields/time/index.js:16
 msgid "Select Time"
-msgstr ""
+msgstr "Seleccione Fecha"
 
 #: packages/core/hocs/with-conditional-logic/index.js:69
 msgid "An unknown field is used in condition - \"%s\""
@@ -203,11 +217,11 @@ msgstr ""
 
 #: packages/core/utils/api-fetch.js:19
 msgid "An error occured."
-msgstr ""
+msgstr "Ocurrió un error."
 
 #: packages/core/utils/fetch-attachments-data.js:24
 msgid "An error occurred while trying to fetch files data."
-msgstr ""
+msgstr "Un error ocurrió mientras se cargaban los datos del archivo."
 
 #: packages/metaboxes/containers/index.js:55
 msgid "Could not find DOM element for container \"%1$s\"."
